@@ -1,0 +1,141 @@
+{
+  "projeto": "Criação de Dashboard para Leitura de DRE - SG Global Group",
+  "registros_consolidados": 50022,
+  "receita_total_usd": 1393077997.7851243,
+  "despesa_total_usd": 455597126.30522096,
+  "resultado_usd": 937480871.4799033,
+  "datas_ausentes": 18900,
+  "percentual_datas_ausentes": 0.3778337531486146,
+  "por_pais": {
+    "BR": {
+      "registros": 18969,
+      "receita_total_usd": 3390101.7851405027,
+      "despesa_total_usd": 557509.3052208833,
+      "resultado_usd": 2832592.4799196417,
+      "datas_ausentes": 0
+    },
+    "US": {
+      "registros": 31053,
+      "receita_total_usd": 1389687896.0,
+      "despesa_total_usd": 455039617.0,
+      "resultado_usd": 934648279.0,
+      "datas_ausentes": 18900
+    }
+  },
+  "por_ano": {
+    "2020": {
+      "registros": 1,
+      "receita_total_usd": 0.0,
+      "despesa_total_usd": 0.0,
+      "resultado_usd": 0.0
+    },
+    "2021": {
+      "registros": 60,
+      "receita_total_usd": 2656.8955823293213,
+      "despesa_total_usd": 0.0,
+      "resultado_usd": 2656.8955823293213
+    },
+    "2022": {
+      "registros": 1154,
+      "receita_total_usd": 203327.72891566233,
+      "despesa_total_usd": 48473.5763052209,
+      "resultado_usd": 154854.15261044147
+    },
+    "2023": {
+      "registros": 24005,
+      "receita_total_usd": 297523068.277115,
+      "despesa_total_usd": 191508314.8674698,
+      "resultado_usd": 106014753.40963821
+    },
+    "2024": {
+      "registros": 5902,
+      "receita_total_usd": 161091504.88353413,
+      "despesa_total_usd": 51468565.861445785,
+      "resultado_usd": 109622939.02208835
+    }
+  },
+  "top_receitas": [
+    {
+      "categoria": "01.02.01.02.10 - EB2 - NIW - Desdobramento",
+      "valor_usd": 690524962.0
+    },
+    {
+      "categoria": "14.01.03 - Accounts Receivable (A/R)",
+      "valor_usd": 270770705.0
+    },
+    {
+      "categoria": "01.02.01.02.01 - EB2 - NIW - Honorários de imigração",
+      "valor_usd": 151644069.0
+    },
+    {
+      "categoria": "01.02.01.02.09 - EB2 - NIW - Taxa Administrativa",
+      "valor_usd": 50642766.0
+    },
+    {
+      "categoria": "01.02.01.02.02 - EB2 - NIW - Business Plan",
+      "valor_usd": 33139868.0
+    },
+    {
+      "categoria": "11.03 - Entrada de Empréstimos Intercompany",
+      "valor_usd": 33102211.44779117
+    },
+    {
+      "categoria": "01.02.01.02.04 - EB2 - NIW - Tradução Certificadas",
+      "valor_usd": 25197991.0
+    },
+    {
+      "categoria": "01.02.01.02.03 - EB2 - NIW - RIMS II",
+      "valor_usd": 15313256.0
+    },
+    {
+      "categoria": "01.02.01.02.05 - EB2 - NIW - Carta de Especialista",
+      "valor_usd": 15212747.0
+    },
+    {
+      "categoria": "01.02.01.02.07 - EB2 - NIW - Assessoria de Impressas",
+      "valor_usd": 14629838.0
+    }
+  ],
+  "top_despesas": [
+    {
+      "categoria": "14.02.03 - Accounts Payable (A/P)",
+      "valor_usd": 83678866.0
+    },
+    {
+      "categoria": "04.01.01.01 - Remuneração de colaboradores - PJ",
+      "valor_usd": 39884234.80522089
+    },
+    {
+      "categoria": "03.03.01.02 - EB2 - NIW - Advogado de imigração",
+      "valor_usd": 37997380.0
+    },
+    {
+      "categoria": "10.05 - Outros (Imobilizado e Intangí­vel)",
+      "valor_usd": 35822880.0
+    },
+    {
+      "categoria": "09.01 - Fernando Gabas - Distribuição de Lucros",
+      "valor_usd": 33126986.0
+    },
+    {
+      "categoria": "12.03 - Saída de Empréstimos Intercompany",
+      "valor_usd": 31598293.182730924
+    },
+    {
+      "categoria": "04.04.06 - Anúncios",
+      "valor_usd": 24456589.473895583
+    },
+    {
+      "categoria": "02.05 - Perda/Distrato",
+      "valor_usd": 17742879.0
+    },
+    {
+      "categoria": "09.07 - Rafael Lamberti - Distribuição de Lucros",
+      "valor_usd": 15408216.0
+    },
+    {
+      "categoria": "04.05.03 - Aluguel",
+      "valor_usd": 13904468.48995984
+    }
+  ]
+}
